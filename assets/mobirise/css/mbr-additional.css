@@ -3667,9 +3667,14 @@ body {
   background-color: #c24af7;
   background: linear-gradient(45deg, #c24af7, #000000);
 }
+.cid-r0x9gMg77V .media-container-row {
+  flex-direction: row-reverse;
+}
 @media (min-width: 992px) {
   .cid-r0x9gMg77V .mbr-figure {
     padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
   }
 }
 @media (max-width: 991px) {
