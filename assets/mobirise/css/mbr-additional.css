@@ -2355,29 +2355,22 @@ body {
     text-align: center;
   }
 }
-.cid-r0v1dm8Oep {
-  padding-top: 15px;
+.cid-r0vaCioY4a {
+  padding-top: 105px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #f9f9f9;
 }
-.cid-r0v1dm8Oep h3 {
+.cid-r0vaCioY4a .mbr-text {
+  color: #767676;
+}
+.cid-r0vaCioY4a h4 {
   text-align: center;
 }
-.cid-r0v1dm8Oep .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
+.cid-r0vaCioY4a p {
+  text-align: center;
 }
-.cid-r0v1dm8Oep .mbr-content-text {
-  color: #767676;
-}
-.cid-r0v1dm8Oep .panel-item {
-  background: #ffffff;
-}
-.cid-r0v1dm8Oep .card {
-  word-wrap: break-word;
-}
-.cid-r0v1dm8Oep .mbr-iconfont {
-  font-size: 80px;
+.cid-r0vaCioY4a .card-img span {
+  font-size: 96px;
   color: #149dcc;
 }
 .cid-r0v6OwsgWZ {
@@ -2458,10 +2451,18 @@ body {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-r0vC9FRkMC {
+  padding-top: 60px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-r0vC9FRkMC .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-r0v3kbDjNK {
-  padding-top: 90px;
+  padding-top: 0px;
   padding-bottom: 90px;
-  background-color: #f9f9f9;
+  background-color: #ffffff;
 }
 .cid-r0v3kbDjNK h2 {
   text-align: center;
@@ -2496,141 +2497,6 @@ body {
   min-width: 100%;
   width: auto;
   max-width: 600px;
-}
-.cid-r0v0Jprg8m {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-r0v0Jprg8m .carousel-item {
-  justify-content: center;
-}
-.cid-r0v0Jprg8m .carousel-item.active,
-.cid-r0v0Jprg8m .carousel-item-next,
-.cid-r0v0Jprg8m .carousel-item-prev {
-  display: flex;
-}
-.cid-r0v0Jprg8m .carousel-controls a {
-  transition: opacity .5s;
-  font-size: 2rem;
-}
-.cid-r0v0Jprg8m .carousel-controls a span {
-  position: absolute;
-  top: 180px;
-  padding: 10px;
-  border-radius: 50%;
-  color: #585858;
-  background: #c8c6c6;
-  opacity: .5;
-}
-.cid-r0v0Jprg8m .carousel-controls a:hover span {
-  opacity: 1;
-}
-.cid-r0v0Jprg8m .user_image {
-  width: 200px;
-  height: 200px;
-  margin-bottom: 1.6rem;
-  overflow: hidden;
-  border-radius: 50%;
-  margin: 0 auto 2rem auto;
-}
-.cid-r0v0Jprg8m .user_image img {
-  width: 100%;
-  min-width: 100%;
-  min-height: 100%;
-}
-@media (max-width: 230px) {
-  .cid-r0v0Jprg8m .user_image {
-    width: 100%;
-    height: auto;
-  }
-}
-.cid-r0v19gE3TM {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
-}
-.cid-r0v19gE3TM .mbr-section-subtitle {
-  color: #767676;
-  font-weight: 300;
-}
-.cid-r0v19gE3TM .number-wrap {
-  color: #565656;
-  border-color: rgba(255, 255, 255, 0.15);
-  position: relative;
-  display: inline-block;
-  text-align: center;
-  padding: 5px 10px 13px 10px;
-  margin: 0;
-  min-width: 118px;
-  border-radius: 2px;
-  max-width: 100%;
-}
-.cid-r0v19gE3TM .number {
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  text-transform: none;
-  letter-spacing: -2px;
-  word-spacing: 0;
-  line-height: 1.3;
-  color: #28262b;
-}
-.cid-r0v19gE3TM .period {
-  display: block;
-  padding-top: 2px;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-}
-.cid-r0v19gE3TM .dot {
-  position: absolute;
-  top: -10px;
-  right: -1em;
-  width: 1em;
-  display: block;
-  height: 83%;
-  overflow: hidden;
-  font-style: normal;
-  font-weight: 700;
-  font-size: 55px;
-  line-height: 89.65px;
-  text-transform: none;
-  letter-spacing: 0;
-  word-spacing: 0;
-  color: #28262b;
-}
-.cid-r0v19gE3TM .countdown-cont {
-  max-width: 700px;
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-r0v19gE3TM .dot {
-    display: none;
-  }
-}
-@media (max-width: 543px) {
-  .cid-r0v19gE3TM .number-wrap {
-    margin-bottom: 15px;
-  }
-}
-@media (max-width: 550px) {
-  .cid-r0v19gE3TM .col-xs-3 {
-    padding-left: 0;
-    padding-right: 0;
-  }
-  .cid-r0v19gE3TM .number-wrap {
-    min-width: auto;
-  }
-}
-@media (max-width: 440px) {
-  .cid-r0v19gE3TM .number,
-  .cid-r0v19gE3TM .dot {
-    font-size: 40px;
-  }
-}
-@media (max-width: 380px) {
-  .cid-r0v19gE3TM .period {
-    font-size: 0.8rem;
-  }
 }
 .cid-r0rMKNQ641 {
   padding-top: 45px;
