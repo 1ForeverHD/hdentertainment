@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "Community.html",
+    "currentPage": "community.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2642,7 +2642,7 @@
         }
       ]
     },
-    "Community.html": {
+    "community.html": {
       "settings": {
         "title": "Community",
         "meta_descr": "",
